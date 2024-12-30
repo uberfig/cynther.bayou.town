@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://ivytime.gay"
+base_url = "https://cynther.bayou.town"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
@@ -44,8 +44,8 @@ highlight_theme = "dracula"
 
 [extra]
 # Put all your custom variables here
-site_name = "ivytime"
+site_name = "cynther"
 start_year = "2023"
 curr_year = "24"
-disquis = true
+disquis = false
 disquis_link = "https://ivytime.disqus.com/embed.js"
